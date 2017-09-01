@@ -147,7 +147,7 @@ namespace Skaiciuotuvas
             a = Convert.ToDouble(ekranas.Text);
             ekranas.Clear();
             operacija = "-";
-            label1.Text = Convert.ToString(a+" "+"-");
+            label1.Text = Convert.ToString(a +" "+"-");
 
         }
 
